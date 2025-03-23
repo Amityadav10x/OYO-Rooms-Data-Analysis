@@ -120,6 +120,6 @@ By implementing **data-driven business strategies**, OYO can enhance **profitabi
 
 ## 📢 **Author & Contact**  
 👤 **Amit** – Data Analyst Enthusiast  
-🔗 **LinkedIn:** [Your LinkedIn Profile]  
-📩 **Email:** [Your Email]  
+🔗 **LinkedIn:** https://www.linkedin.com/in/amit-yadav-10x  
+📩 **Email:** amityadav10x@gmal.com
 
