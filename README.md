@@ -8,7 +8,7 @@ Through this analysis, businesses can **identify patterns, optimize pricing stra
 ---
 
 ## 🏢 **Business Problem Statement**  
-OYO Rooms, a leading hospitality chain, aims to enhance its revenue, optimize occupancy, and reduce cancellations while understanding customer behavior. Key challenges include:  
+OYO Rooms, a leading hospitality chain, aims to enhance its revenue, optimize occupancy, and reduce cancellations while understanding customer behavior. Key challenges include:
 
 - 📉 **Fluctuating occupancy rates** impacting revenue.  
 - ❌ **High cancellation rates**, leading to lost revenue opportunities.  
